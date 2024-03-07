@@ -11,5 +11,5 @@ This Document is still being formulated and is dated every time i edit anything.
       
   The mass majority of this document is a collection of resources from other people and websites.
 
-      https://docs.google.com/document/d/198o5k-aO2qnt9ubdNry-KPFXr8xrdYJp3a7SXZ5hVpc/edit?usp=sharing
+  https://docs.google.com/document/d/198o5k-aO2qnt9ubdNry-KPFXr8xrdYJp3a7SXZ5hVpc/edit?usp=sharing
 
