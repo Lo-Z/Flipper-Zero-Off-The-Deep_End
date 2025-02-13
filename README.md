@@ -27,12 +27,12 @@ Eventually, it will all be in this document.
           Thus, bringing me to the point of madness
             I had to collect as much information as I could. and i'm still at it.
 
-Special Thaks goes to:
-  Derek Jamison
-  The Talking Sasquatch
-  UberGuidoZ
-  IAmJakoby
-  JustCallMeKoKo
+Special Thanks goes to:
+  Derek Jamison,
+  The Talking Sasquatch,
+  UberGuidoZ,
+  IAmJakoby,
+  JustCallMeKoKo,
     and many more.
           
 
