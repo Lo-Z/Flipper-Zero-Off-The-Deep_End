@@ -1,7 +1,10 @@
 # Flipper-Zero-Off-The-Deep_End
-Last Edit = Momentum Firmware & SubGhz Rolling Code hacks 3-20-24
+Last Edit = Using Marauder, Wiresharl, and Hashcat to crack wifi passwords 11-15-2025
 A compilation of resources from different sources and personal knowledge dump of all things Flipper Zero and the technology within it.
+
   `This Document is still being formulated`
+    
+    
     I do date it every time I edit anything though,
       I will also Update this ReadMe to highlight the updates and/or changes 
 
