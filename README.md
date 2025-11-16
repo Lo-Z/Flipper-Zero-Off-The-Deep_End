@@ -1,5 +1,7 @@
 # Flipper-Zero-Off-The-Deep_End
-Last Edit = Using Marauder, Wiresharl, and Hashcat to crack wifi passwords 11-15-2025
+Last Edit = Using Marauder, Wireshark, and Hashcat to crack wifi passwords 11-15-2025.
+
+
 A compilation of resources from different sources and personal knowledge dump of all things Flipper Zero and the technology within it.
 
   `This Document is still being formulated`
